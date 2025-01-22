@@ -1,2 +1,2 @@
 # html-portfolio
-This is a new website that is still in development.
+This is a noob website that is still in development.
